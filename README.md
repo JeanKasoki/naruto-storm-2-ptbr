@@ -36,7 +36,7 @@ Naruto Legacy Brasil, Immegax, Colet e Akino10.
 
 ## 🚀 Como Instalar
 
-As instruções detalhadas e os arquivos estão disponíveis no [Site Oficial](https://jeankasoki.github.io/naruto-storm-generations-ptbr/).
+As instruções detalhadas e os arquivos estão disponíveis no [Site Oficial](https://jeankasoki.github.io/naruto-storm-2-ptbr/).
 
 ### 📂 Instruções de Arquivo
 - **Patch de Tradução:** Se você já possui o jogo original E QUER APENAS A TRADUÇÃO, baixe o patch e substitua a pasta `PS3_GAME` na raiz. O mesmo vale para a versão de Xbox 360, substituindo a pasta `data`
